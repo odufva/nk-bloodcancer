@@ -5,9 +5,9 @@ Scripts to reproduce figures and analyses in the manuscript "Single-cell functio
 
 ## Download data to reproduce analyses from:
 
-ArrayExpress (scRNA-seq Seurat objects, CellRanger outputs): https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-13204
+Synapse (scRNA-seq Seurat objects, CRISPR screen count matrices, other processed data): https://doi.org/10.7303/syn52600685
 
-Synapse (CRISPR screen count matrices, other processed data): https://doi.org/10.7303/syn52600685
+ArrayExpress (scRNA-seq Seurat objects, CellRanger outputs): https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-13204
 
 EGA (raw scRNA-seq data): EGAS00001007272
 
