@@ -5,7 +5,7 @@ Scripts to reproduce figures and analyses in the manuscript "Single-cell functio
 
 ## Download data to reproduce analyses from:
 
-Synapse (scRNA-seq Seurat objects, CRISPR screen count matrices, other processed data): https://doi.org/10.7303/syn52600685
+Synapse (scRNA-seq Seurat objects, CRISPR screen count matrices, other processed data): https://doi.org/10.7303/syn52600685 (publicly available download after login)
 
 ArrayExpress (scRNA-seq Seurat objects, CellRanger outputs): https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-13204
 
@@ -14,7 +14,7 @@ EGA (raw scRNA-seq data): EGAS00001007272
 ## Note:
 If you use the data, analysis, or results, please cite:
 
-Dufva, Gandolfi et al. 
+Dufva, Gandolfi et al. https://doi.org/10.1016/j.immuni.2023.11.008
 
 
 
